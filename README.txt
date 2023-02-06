@@ -1,28 +1,141 @@
-                                 .-..-.
-   _____                         | || |
-  /____/-.---_  .---.  .---.  .-.| || | .---.
-  | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
-  * | | | | | || |_| || |_| || |_| || || |___/
-    |_| |_| |_|\_____/\_____/\_____||_|\_____)
 
-Moodle - the world's open source learning platform
 
-Moodle <https://moodle.org> is a learning platform designed to provide
-educators, administrators and learners with a single robust, secure and
-integrated system to create personalised learning environments.
+# 📖 e-learning  <a name="about-project"></a>
 
-You can download Moodle <https://download.moodle.org> and run it on your own
-web server, ask one of our Moodle Partners <https://moodle.com/partners/> to
-assist you, or have a MoodleCloud site <https://moodle.com/cloud/> set up for
-you.
+**[e-learning ]**  Ethiopian Aviation academy's e-learning system allows students to access course materials and complete assignments at their own pace, on their own schedule. This is particularly beneficial for students who have busy schedules or who live in remote areas. Another benefit of this system is that it is more cost effective than traditional classroom-based learning. It does not require physical classrooms, textbooks, or other materials, which can significantly reduce costs. Additionally, e-learning systems often offer a wider range of courses than traditional classroom-based learning, which can also help to reduce costs.
 
-Moodle is widely used around the world by universities, schools, companies and
-all manner of organisations and individuals.
 
-Moodle is provided freely as open source software, under the GNU General Public
-License <https://docs.moodle.org/dev/License>.
 
-Moodle is written in PHP and JavaScript and uses an SQL database for storing
-the data.
+## 🛠 Built With <a name="built-with"></a>
 
-See <https://docs.moodle.org> for details of Moodle's many features.
+### Tech Stack <a name="tech-stack"></a>
+
+<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
+
+<details>
+  <summary>Backend</summary>
+  <ul>
+    <li><a href="https://www.php.net/">PHP</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Front-end</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">MySQL</a></li>
+  </ul>
+</details>
+
+
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+<!-- > Describe how a new developer could make use of your project. -->
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need .net 6 please check the version using the below command (please download if you dont have it): 
+ 
+ ```sh
+ dotnet --v
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  git clone https://github.com/agetuni/eprocument.git
+  git clone https://github.com/agetuni/eprocument.git
+```
+
+
+### Install
+
+Install this project with:
+
+```sh
+  dotnet build
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+
+```sh
+ dotnet run 
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 Aleazar Yilma
+
+- GitHub: [@Agetuni](https://github.com/Agetuni)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleazaryilma/)
+- AngelList: [AngelList](https://angel.co/u/aleazar-yilma-1)
+
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+>
+
+If you like this project please give me a start
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+
+<!-- FAQ (optional) -->
+
+<!-- ## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
